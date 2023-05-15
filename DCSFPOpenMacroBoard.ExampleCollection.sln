@@ -1,0 +1,109 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMacroBoard.Examples.CommonStuff", "src\OpenMacroBoard.Examples.CommonStuff\OpenMacroBoard.Examples.CommonStuff.csproj", "{F9FD2441-D1EB-4388-88C0-052A1A9DA1FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMacroBoard.Examples.Austria", "..\DCSFPOpenMacroBoardMetaProject\src\DCSFPOpenMacroBoard.ExampleCollection\src\OpenMacroBoard.Examples.Austria\OpenMacroBoard.Examples.Austria.csproj", "{B5165281-4B21-417C-9384-4F42666055F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMacroBoard.Examples.ButtonPressDiagnostics", "..\DCSFPOpenMacroBoardMetaProject\src\DCSFPOpenMacroBoard.ExampleCollection\src\OpenMacroBoard.Examples.ButtonPressDiagnostics\OpenMacroBoard.Examples.ButtonPressDiagnostics.csproj", "{0EB3DAE4-CA46-472E-966A-2CD7746F3263}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMacroBoard.Examples.DeviceContextShowcase", "..\DCSFPOpenMacroBoardMetaProject\src\DCSFPOpenMacroBoard.ExampleCollection\src\OpenMacroBoard.Examples.DeviceContextShowcase\OpenMacroBoard.Examples.DeviceContextShowcase.csproj", "{C5DFE9E7-D8A6-4C85-87E4-3B3D6F8BE43C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMacroBoard.Examples.DrawFullScreen", "..\DCSFPOpenMacroBoardMetaProject\src\DCSFPOpenMacroBoard.ExampleCollection\src\OpenMacroBoard.Examples.DrawFullScreen\OpenMacroBoard.Examples.DrawFullScreen.csproj", "{36B54BAB-74A8-4E90-83A3-9588E6E11D89}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMacroBoard.Examples.Drawing", "..\DCSFPOpenMacroBoardMetaProject\src\DCSFPOpenMacroBoard.ExampleCollection\src\OpenMacroBoard.Examples.Drawing\OpenMacroBoard.Examples.Drawing.csproj", "{C5E67301-3B07-4622-973C-F9B431B22023}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMacroBoard.Examples.DrawKeys", "..\DCSFPOpenMacroBoardMetaProject\src\DCSFPOpenMacroBoard.ExampleCollection\src\OpenMacroBoard.Examples.DrawKeys\OpenMacroBoard.Examples.DrawKeys.csproj", "{C86D4B38-02A5-442D-892D-46158B7078D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMacroBoard.Examples.GapMeasureTool", "..\DCSFPOpenMacroBoardMetaProject\src\DCSFPOpenMacroBoard.ExampleCollection\src\OpenMacroBoard.Examples.GapMeasureTool\OpenMacroBoard.Examples.GapMeasureTool.csproj", "{39162E2F-4578-4959-92D1-D73609FA4B73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMacroBoard.Examples.ImageGlitchTest", "..\DCSFPOpenMacroBoardMetaProject\src\DCSFPOpenMacroBoard.ExampleCollection\src\OpenMacroBoard.Examples.ImageGlitchTest\OpenMacroBoard.Examples.ImageGlitchTest.csproj", "{7F1B74DF-C2D2-479B-9CD7-3A1049B58CEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMacroBoard.Examples.MeasureSetBitmapSpeed", "..\DCSFPOpenMacroBoardMetaProject\src\DCSFPOpenMacroBoard.ExampleCollection\src\OpenMacroBoard.Examples.MeasureSetBitmapSpeed\OpenMacroBoard.Examples.MeasureSetBitmapSpeed.csproj", "{771BE44D-6A03-4FD3-A33F-8BA56897875A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMacroBoard.Examples.MemoryGame", "..\DCSFPOpenMacroBoardMetaProject\src\DCSFPOpenMacroBoard.ExampleCollection\src\OpenMacroBoard.Examples.MemoryGame\OpenMacroBoard.Examples.MemoryGame.csproj", "{629D45CB-6321-4D06-B91C-E5D53B4CA800}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMacroBoard.Examples.Minesweeper", "..\DCSFPOpenMacroBoardMetaProject\src\DCSFPOpenMacroBoard.ExampleCollection\src\OpenMacroBoard.Examples.Minesweeper\OpenMacroBoard.Examples.Minesweeper.csproj", "{9F9C0BBD-93C0-4BB1-AE02-71603002F53D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMacroBoard.Examples.Rainbow", "..\DCSFPOpenMacroBoardMetaProject\src\DCSFPOpenMacroBoard.ExampleCollection\src\OpenMacroBoard.Examples.Rainbow\OpenMacroBoard.Examples.Rainbow.csproj", "{2AAA5F56-7F00-4D04-A1B0-18F4612F9301}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMacroBoard.Examples.VideoPlayer", "..\DCSFPOpenMacroBoardMetaProject\src\DCSFPOpenMacroBoard.ExampleCollection\src\OpenMacroBoard.Examples.VideoPlayer\OpenMacroBoard.Examples.VideoPlayer.csproj", "{F6DF4559-F11E-4E4E-9C77-9327EF38C381}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMacroBoard.Examples.XorFlip", "..\DCSFPOpenMacroBoardMetaProject\src\DCSFPOpenMacroBoard.ExampleCollection\src\OpenMacroBoard.Examples.XorFlip\OpenMacroBoard.Examples.XorFlip.csproj", "{F66F80D4-B675-4627-849D-A3DAB30AC442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9FD2441-D1EB-4388-88C0-052A1A9DA1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FD2441-D1EB-4388-88C0-052A1A9DA1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FD2441-D1EB-4388-88C0-052A1A9DA1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FD2441-D1EB-4388-88C0-052A1A9DA1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5165281-4B21-417C-9384-4F42666055F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5165281-4B21-417C-9384-4F42666055F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5165281-4B21-417C-9384-4F42666055F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5165281-4B21-417C-9384-4F42666055F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB3DAE4-CA46-472E-966A-2CD7746F3263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB3DAE4-CA46-472E-966A-2CD7746F3263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB3DAE4-CA46-472E-966A-2CD7746F3263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB3DAE4-CA46-472E-966A-2CD7746F3263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DFE9E7-D8A6-4C85-87E4-3B3D6F8BE43C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DFE9E7-D8A6-4C85-87E4-3B3D6F8BE43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DFE9E7-D8A6-4C85-87E4-3B3D6F8BE43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DFE9E7-D8A6-4C85-87E4-3B3D6F8BE43C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B54BAB-74A8-4E90-83A3-9588E6E11D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B54BAB-74A8-4E90-83A3-9588E6E11D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B54BAB-74A8-4E90-83A3-9588E6E11D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B54BAB-74A8-4E90-83A3-9588E6E11D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E67301-3B07-4622-973C-F9B431B22023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E67301-3B07-4622-973C-F9B431B22023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E67301-3B07-4622-973C-F9B431B22023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E67301-3B07-4622-973C-F9B431B22023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86D4B38-02A5-442D-892D-46158B7078D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86D4B38-02A5-442D-892D-46158B7078D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86D4B38-02A5-442D-892D-46158B7078D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86D4B38-02A5-442D-892D-46158B7078D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39162E2F-4578-4959-92D1-D73609FA4B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39162E2F-4578-4959-92D1-D73609FA4B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39162E2F-4578-4959-92D1-D73609FA4B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39162E2F-4578-4959-92D1-D73609FA4B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F1B74DF-C2D2-479B-9CD7-3A1049B58CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1B74DF-C2D2-479B-9CD7-3A1049B58CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1B74DF-C2D2-479B-9CD7-3A1049B58CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1B74DF-C2D2-479B-9CD7-3A1049B58CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771BE44D-6A03-4FD3-A33F-8BA56897875A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771BE44D-6A03-4FD3-A33F-8BA56897875A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771BE44D-6A03-4FD3-A33F-8BA56897875A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771BE44D-6A03-4FD3-A33F-8BA56897875A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629D45CB-6321-4D06-B91C-E5D53B4CA800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629D45CB-6321-4D06-B91C-E5D53B4CA800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629D45CB-6321-4D06-B91C-E5D53B4CA800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629D45CB-6321-4D06-B91C-E5D53B4CA800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9C0BBD-93C0-4BB1-AE02-71603002F53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9C0BBD-93C0-4BB1-AE02-71603002F53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9C0BBD-93C0-4BB1-AE02-71603002F53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9C0BBD-93C0-4BB1-AE02-71603002F53D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AAA5F56-7F00-4D04-A1B0-18F4612F9301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AAA5F56-7F00-4D04-A1B0-18F4612F9301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AAA5F56-7F00-4D04-A1B0-18F4612F9301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AAA5F56-7F00-4D04-A1B0-18F4612F9301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6DF4559-F11E-4E4E-9C77-9327EF38C381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6DF4559-F11E-4E4E-9C77-9327EF38C381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6DF4559-F11E-4E4E-9C77-9327EF38C381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6DF4559-F11E-4E4E-9C77-9327EF38C381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F66F80D4-B675-4627-849D-A3DAB30AC442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F66F80D4-B675-4627-849D-A3DAB30AC442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F66F80D4-B675-4627-849D-A3DAB30AC442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F66F80D4-B675-4627-849D-A3DAB30AC442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4F13FC4-9E18-4B30-A944-C80852F6E7AD}
+	EndGlobalSection
+EndGlobal
